@@ -1,5 +1,8 @@
 package aula03;
 
+//Ainda não descobri porque não ta rodando. Pelo que pesquisei a função string está correta.
+//Não sei como fazer a interação usuário máquina.
+
 //Importando a biblioteca de entrada
 	import java.util.Scanner;
 
