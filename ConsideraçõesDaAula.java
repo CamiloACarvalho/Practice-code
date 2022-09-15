@@ -57,7 +57,24 @@ public class ConsideraçõesDaAula
 	
 	//	AULA 6 - CONSTRUTORES
 	
+//	É possível criar lógica durante a construção de objetos, daí o nome CONSTRUTORES. Dentro de cada classe, podemos gerar 1 ou vários
+//	construtores, para que no ato de criação dos objetos, possamos escolher qual o tipo de construtor a ser usado.
+//	O construtor precisa ter o mesmo nome de uma classe. Além disso, ele não terá nenhum tipo de retorno, nem mesmo o void e também não 
+//	não aceita nenhum comando return.
+//	O construtor é acionado quando realizado o comando new. Então aquele objeto é alocado em memória, todos os atributos são inicializados
+//	daquele objeto e logo em seguida que o construtor é acionado. Toda classe é preciso ter no mínimo um construtor.
+	
+	
+	// AULA 07 - TRABALHANDO COM OBJETOS
+	
 //	
 	
+	
+	
+	
+	
+	
+	]
+		
 	
 }
