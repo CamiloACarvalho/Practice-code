@@ -65,16 +65,18 @@ public class ConsideraçõesDaAula
 //	daquele objeto e logo em seguida que o construtor é acionado. Toda classe é preciso ter no mínimo um construtor.
 	
 	
-	// AULA 07 - TRABALHANDO COM OBJETOS
+	// AULA 7 - TRABALHANDO COM OBJETOS
 	
 //	
 	
+	// AULA 8 - MODIFICADORES DE ACESSO
+
+//
 	
 	
 	
 	
-	
-	]
+
 		
 	
 }
