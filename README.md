@@ -2,6 +2,9 @@
 
 Hello everyone 👋🏼😄
 
-I'm glad wit yoir visite. Welcome and enjoy!
 
-This repository
+I'm happy with your visit. Welcome and enjoy!
+This repository contains only Java code. It's a simple code that I've been practicing.
+
+I'd like to remind you that all the code in this repository is commented out!
+
