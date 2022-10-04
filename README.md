@@ -8,3 +8,5 @@ This repository contains only Java code. It's a simple code that I've been pract
 
 I'd like to remind you that all the code in this repository is commented out!
 
+(add gif study)
+
